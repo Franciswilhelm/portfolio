@@ -1,7 +1,26 @@
 .cool {
   color: red;
+  background-color: black;
 }
 
 .classy {
+  font-style: italic;
+}
+
+.lefty {
+  float: right;
+}
+
+.loopy {
+  border: 4px solid blue;
+  padding: 6px;
+  background-color: blue;
+}
+
+li {
+  font-style: normal;
+}
+
+.fancypants li {
   font-style: italic;
 }
